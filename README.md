@@ -66,4 +66,12 @@ pip install openai==0.28
 
 
 ----
+리카봇 예시
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/1zy1jrK/image.png" alt="image" border="0"></a>   
+
+[도로시 초대하기(가끔 켜는 봇입니다. 아마 꺼져있을 확률이 높습니다.)](https://discord.com/oauth2/authorize?client_id=1333265823564959786&permissions=8&integration_type=0&scope=bot)   
+
+
+
 ©2025. poshil([{•GREENPOEM•}])
