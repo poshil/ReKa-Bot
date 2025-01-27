@@ -1,0 +1,30 @@
+# 환경 변수 파일
+.env
+
+# Python 가상환경
+venv/
+.venv/
+
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 로그 및 데이터 파일
+*.log
+*.sqlite3
+*.db
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+*.iml
